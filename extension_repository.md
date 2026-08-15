@@ -5,7 +5,7 @@
 
 ## Entries:
 
-[["name", "MiExtension"], ["version", 0.1], ["sha256", "73c473fa22b3820aecbef27cd7a1af685bc426b687057871a7059081086f5610"], ["description", "Extension de prueba de Pulpi Draw."], ["tags", "Tool"], ["download_link", "https://raw.githubusercontent.com/PulpiDev/extens/main/MiExtension.pck"]]
+[["name", "PulpiDraw-Extens"], ["version", 0.1], ["sha256", "73c473fa22b3820aecbef27cd7a1af685bc426b687057871a7059081086f5610"], ["description", "Extension de prueba de Pulpi Draw."], ["tags", "Tool"], ["download_link", "https://raw.githubusercontent.com/PulpiDev/extens/main/MiExtension.pck"]]
 
 // Plantilla para nuevas entradas:
 //[["name", ""], ["version", 0.0], ["sha256", ""], ["description", ""], ["readme", ""], ["tags", ""], ["thumbnail", ""], ["download_link", ""]]
